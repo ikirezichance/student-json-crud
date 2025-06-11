@@ -1,0 +1,12 @@
+{
+  "name": "student-json-api",
+  "version": "1.0.0",
+  "description": "JSON Server for student CRUD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
